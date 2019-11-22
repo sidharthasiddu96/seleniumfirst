@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite pramod">
+  <test name="Test selenium1">
+    <classes>
+      <class name="test.NewTest1"/>
+      
+      <class name="test.NewTest4"/>
+    </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

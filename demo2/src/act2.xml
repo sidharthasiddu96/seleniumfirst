@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="methods">
+  <test name="Test">
+    <classes>
+      <class name="test.act2"/>
+      <methods>
+      <exclude name="method2"> </exclude>
+      </methods>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Testb">
+    <classes>
+      <class name="test.act21"/>
+      <methods>
+       <include name="method4"> </include>
+        <include name="method5"> </include>
+         <include name="method6"> </include>
+         </methods>
+    </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

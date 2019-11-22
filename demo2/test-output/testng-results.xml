@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="237" started-at="2019-11-12T11:04:18Z" finished-at="2019-11-12T11:04:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="195" started-at="2019-11-12T11:04:18Z" finished-at="2019-11-12T11:04:19Z">
+      <class name="test.act2">
+        <test-method status="PASS" signature="method3()[pri:0, instance:test.act2@2be94b0f]" name="method3" duration-ms="40" started-at="2019-11-12T16:34:18Z" finished-at="2019-11-12T16:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:test.act2@2be94b0f]" name="method1" duration-ms="40" started-at="2019-11-12T16:34:18Z" finished-at="2019-11-12T16:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- test.act2 -->
+    </test> <!-- Test -->
+    <test name="Testb" duration-ms="8" started-at="2019-11-12T11:04:19Z" finished-at="2019-11-12T11:04:19Z">
+      <class name="test.act21">
+        <test-method status="PASS" signature="method4()[pri:0, instance:test.act21@47fd17e3]" name="method4" duration-ms="1" started-at="2019-11-12T16:34:19Z" finished-at="2019-11-12T16:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method4 -->
+        <test-method status="PASS" signature="method6()[pri:0, instance:test.act21@47fd17e3]" name="method6" duration-ms="1" started-at="2019-11-12T16:34:19Z" finished-at="2019-11-12T16:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+        <test-method status="PASS" signature="method5()[pri:0, instance:test.act21@47fd17e3]" name="method5" duration-ms="2" started-at="2019-11-12T16:34:19Z" finished-at="2019-11-12T16:34:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+      </class> <!-- test.act21 -->
+    </test> <!-- Testb -->
+  </suite> <!-- Suite -->
+</testng-results>
